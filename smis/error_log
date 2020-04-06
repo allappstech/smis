@@ -1,0 +1,135 @@
+[05-Apr-2019 23:31:06 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:31:06 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:31:06 UTC] PHP Fatal error:  require(): Failed opening required '/home2/uaspolys/public_html/smis/../bootstrap/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:31:42 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:31:42 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/../bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:31:42 UTC] PHP Fatal error:  require(): Failed opening required '/home2/uaspolys/public_html/smis/../bootstrap/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:36:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:36:10 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:37:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:40:11 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:42:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:45:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:46:30 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:48:40 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/schoolmis/bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:48:40 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/schoolmis/bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:48:40 UTC] PHP Fatal error:  require(): Failed opening required '/home2/uaspolys/public_html/smis/schoolmis/bootstrap/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/uaspolys/public_html/smis/index.php on line 22
+[05-Apr-2019 23:49:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/publ in /home2/uaspolys/public_html/smis/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:53:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[05-Apr-2019 23:56:52 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[06-Apr-2019 00:04:33 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/./schoolmis/bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[06-Apr-2019 00:04:33 UTC] PHP Warning:  require(/home2/uaspolys/public_html/smis/./schoolmis/bootstrap/autoload.php): failed to open stream: No such file or directory in /home2/uaspolys/public_html/smis/index.php on line 22
+[06-Apr-2019 00:04:33 UTC] PHP Fatal error:  require(): Failed opening required '/home2/uaspolys/public_html/smis/./schoolmis/bootstrap/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home2/uaspolys/public_html/smis/index.php on line 22
+[08-Apr-2019 09:05:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[10-Apr-2019 07:59:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[17-Apr-2019 07:26:24 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[19-Apr-2019 04:50:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home2/uaspolys/public_html/schoolmis/vendor/larav in /home2/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[22-Apr-2019 05:31:43 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php:729
+Stack trace:
+#0 /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(729): ReflectionClass->__construct('config')
+#1 /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(608): Illuminate\Container\Container->build('config')
+#2 /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php(575): Illuminate\Container\Container->resolve('config')
+#3 /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(728): Illuminate\Container\Container->make('config')
+#4 /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(106): Illuminate\Foundation\Application->make('config')
+#5 /home/uaspolys/public_html/schoolmis/vendor/laravel/fram in /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 729
+[28-Aug-2019 10:17:49 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 29
+[14-Oct-2019 11:11:54 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 29
+[15-Oct-2019 09:05:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/uaspolys/public_html/schoolmis/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 29
